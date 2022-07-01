@@ -1,0 +1,5 @@
+name:company:description:amountOfPeople:address:city:country:price:startDate1|endDate1|agent1;startDate2|endDate2|agent2
+Prabangus kambarys:viesbutis "smagu":kambarys 10 aukste:3:Kauno g. 60:Kaunas:Lietuva:60:2022-07-24|2022-08-27|agentas9;2022-08-27|2022-09-10|agentas8
+Prabangus kambarys2:viesbutis "smagu":kambarys 9 aukste:2:Kauno g. 60:Kaunas:Lietuva:40:
+Butas Vilniuje:mazas verslas2:labai mazas butas:1:Vilniaus g. 13:Vilnius:Lietuva:6:2022-11-24|2023-02-27|agentasm;2023-04-01|2023-05-01|agentasa
+Butas Vilniuje2:mazas verslas2:didesnis butas:2:Vilniaus g. 14:Vilnius:Lietuva:13:2022-10-24|2022-11-13|agentasd;2022-12-01|2022-12-27|agentasc

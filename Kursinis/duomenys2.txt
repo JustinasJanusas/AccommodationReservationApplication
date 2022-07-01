@@ -1,0 +1,7 @@
+name:company:description:amountOfPeople:address:city:country:price:startDate1|endDate1|agent1;startDate2|endDate2|agent2
+brangus:viesbutis "lova":didelis kambarys:3:kauno g. 6:Kaunas:Lietuva:60: 
+pigus:nakvynes namai wow:kambarys vienam zmogui:1:kauno g. 8:Kaunas:Lietuva:10:2022-06-24|2022-07-15|agentas1
+pigus2:nakvynes namai wow:kambarys vienam zmogui:1:kauno g. 8:Kaunas:Lietuva:10:2022-05-24|2022-06-15|agentas10
+pigus3:nakvynes namai wow:kambarys vienam zmogui:1:kauno g. 8:Kaunas:Lietuva:10.50:2022-08-10|2022-09-01|agentas1
+buto kambarys1:nuomininkas Vardenis:kambarys bute:1:kauno g. 19:Kaunas:Lietuva:4:2022-06-10|2022-06-18|agentas
+buto kambarys2:nuomininkas Vardenis:kambarys bute:2:kauno g. 19:Kaunas:Lietuva:6:2022-06-10|2022-06-18|agentas4

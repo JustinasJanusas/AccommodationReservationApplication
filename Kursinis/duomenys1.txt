@@ -1,0 +1,6 @@
+name:company:description:amountOfPeople:address:city:country:price:startDate1|endDate1|agent1;startDate2|endDate2|agent2
+namas:company:labai grazus:3:kauno g. 2:Kaunas:Lietuva:20.15:2022-06-24|2022-07-15|agentas1;2022-08-24|2022-09-15|agentas2;2021-12-24|2022-01-15|agentas2;2090-01-01|2090-09-15|agentas2
+Naujas:viesbutis "lova":kambarys vienam zmogui:1:kauno g. 3:Kaunas:Lietuva:19:
+Sodyba:namu nuoma:didele sodyba:8:Vilniaus g. 30:Vilnius:Lietuva:110:2022-06-24|2022-06-27|agentas3;2022-08-01|2022-08-03|agentas1
+Butas1:mazas verslas:labai mazas butas:1:Vilniaus g. 12:Vilnius:Lietuva:6:2022-11-24|2023-02-27|agentas0;2023-04-01|2023-05-01|agentas1
+Butas2:mazas verslas:didesnis butas:2:Vilniaus g. 14:Vilnius:Lietuva:13:2022-09-24|2022-10-13|agentas0;2022-11-01|2022-12-01|agentas1
